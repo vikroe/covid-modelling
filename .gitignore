@@ -1,0 +1,6 @@
+# Ignore these folders
+literature/
+provided-materials/
+
+# Ignore autosave files
+*.asv
